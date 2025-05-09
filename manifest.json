@@ -11,6 +11,8 @@
   "termsOfServiceUrl": "https://datasciencecampus.github.io/community-visualizations/docs/privacy-policy.html",
   "components": [{
     "id": "choromap",
+     "type": "visualization",
+    "url": "choromap.js",
     "name": "Choropleth Map",
     "iconUrl": "https://storage.googleapis.com/choromap/choropleth.png",
     "description": "Choropleth mapping using D3.",
@@ -20,4 +22,6 @@
       "css": "gs://choromap/choromap.css"
     }
   }]
+   "style": "style.css",
+  "devMode": true
 }
