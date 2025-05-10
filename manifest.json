@@ -8,7 +8,7 @@
   "privacyPolicyUrl": "https://datasciencecampus.github.io/community-visualizations/docs/privacy-policy.html",
   "termsOfServiceUrl": "https://datasciencecampus.github.io/community-visualizations/docs/privacy-policy.html",
   "description": "Choropleth mapping using D3.",
-  "devMode": true,
+  "devMode": false,
   "components": [{
     "id": "choromap",
     "type": "visualization",
